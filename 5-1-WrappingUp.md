@@ -17,6 +17,8 @@ https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated
 http://docs.amazonwebservices.com/gettingstarted/latest/awsgsg-freetier/TestDriveFreeTier.html
 
 ## If you feel like homework, all our tutorials can be found on GitHub:
+https://github.com/theresaneate/DevOpsTesting101
+and
 https://github.com/DevOps-Girls
 
 ## Recommended reading & meetups

@@ -30,7 +30,7 @@ https://docs.aws.amazon.com/s3/index.html
 
 ### c. Provide the bucket name continue
 
-The bucket name needs to be unique, so consider a name like **yourname-devopsgirls**.
+The bucket name needs to be unique, so consider a name like **yourname-testbash**.
 
 #### Click next until permissions
 
@@ -127,4 +127,4 @@ The successfully uploaded files will be listed in the S3 bucket:
 https://www.w3schools.com/html/
 
 ### 2. Continue on with the agenda
-https://github.com/DevOps-Girls/DevOpsTesting101/blob/master/1-0-Agenda.md
+[Back to the Agenda](1-0-Agenda.md)

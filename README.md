@@ -1,33 +1,29 @@
 [![License](https://img.shields.io/badge/License-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-# DevOps Girls in Testing - 101 workshop
+# Hands-on Intro to AWS and a Taste of DevOps, for Testers
 
-![DevOps Girls](/images/devopsgirls.jpg)
+This is the workshop I have also taught at DevOps Girls, tweaked somewhat for the TestBash audience.
 
-In this repository are the slides and content for DevOps Girls in Testing - 101 workshop.
+## This workshop will help with:
 
-## This workshop
+* Not being spooked by some buzzwords anymore
+* Establishing how easy it is to use AWS
+* Learning to deploy your own website (and test it!)
+* Helping find your feet in the DevOps conversation
 
-This workshop is offered with a few tweaks:
+This is a zero to hero session. It opens the door to AWS and DevOps literacy and establishes some basics, making it easier to start researching your own way through the myriad of options that this field present. Just like you needed a few basic words and procedures to find your feet in testing initially, this will help establish those basics for you to explore the ever-growing world of DevOps, and how you could learn to add value there too.
 
-* for intro attendees only
-* with a Testing in DevOps flavour
-* a smaller, more intimate group
-* half day, not full day
-
-You will most likely be in a testing role or be interested in testing, and not have attended any of our previous bootcamps, be completely new to DevOps, or feel that a previous bootcamp was too advanced to follow.
-
-Come join us in this workshop and meet other awesome girls in tech! Remember to bring your laptop as this workshop will be completely hands-on.
+Remember to bring your laptop as this workshop will be completely hands-on.
 
 ### Agenda
 
-[The half-day workshop agenda](https://github.com/DevOps-Girls/DevOpsTesting101/blob/master/1-0-Agenda.md)
+[The half-day workshop agenda](1-0-Agenda.md)
 
 ## Code of Conduct
 
-[Our Code of Conduct](https://github.com/DevOps-Girls/Administration/blob/master/CoC.md)
+[TestBash Code of Conduct](https://www.ministryoftesting.com/testbash-code-of-conduct)
 
 
-## I want to contribute to DevOps Girls. How can I help?
+## Setups
 
-The modules are free for anyone to use - and if you want to create your own and add it to the repository, feel free to check out our [all our guidelines](https://github.com/DevOps-Girls/Administration).
+There will be setup steps emailed to and I will be available on email before, and in person on the day of the workshop to answer setup questions. These can also found on the [Setup](0-1-Setup.md) page.

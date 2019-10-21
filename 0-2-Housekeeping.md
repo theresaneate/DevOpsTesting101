@@ -1,7 +1,7 @@
 # Housekeeping
 
 ## Introductions
-* Who we are
+* Who I am
 * Who you are
 
 ## Logistics
@@ -12,25 +12,26 @@
 * Questions
 
 ## Wifi
-Printed out for each individually
+Provided by conference
 
-Troubleshooting on a Mac: 
+Troubleshooting on a Mac:
 - Go to Network - Preference Pane
 - Click on Advanced button
 - Click on TCP / IP tab:
 - Make sure Configure IPv4 is set to Using DHCP
 
 ## Agenda
-https://github.com/DevOps-Girls/DevOpsTesting101/blob/master/1-0-Agenda.md
+[Agenda](1-0-Agenda.md)
 
 ## Slack
 
 Invites for our Slack team went out prior to the workshop.
 
-If you have not yet joined our Slack team, or are having trouble joining, ask JC or Theresa for help.
+Otherwise, here's a link to re-apply: https://www.ministryoftesting.com/slack_invite
 
-Once in our team, join the #oct2019-workshop channel:
-https://app.slack.com/client/T3C4QL1RC/CNE45AXGU
+If you have not yet joined our Slack team, or are having trouble joining, let Heather Reid know.
+
+Once in the Ministry of Testing team, join the **#testbashaus** channel.
 
 ## Terms and Glossary
 
@@ -43,4 +44,4 @@ Before we move on, say hi to the person next to you.</br>
 
 ## Code of conduct
 
-https://github.com/DevOps-Girls/Administration/blob/master/CoC.md
+[TestBash Code of Conduct](https://www.ministryoftesting.com/testbash-code-of-conduct)

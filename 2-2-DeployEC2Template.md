@@ -43,7 +43,7 @@ Then, we'll need to make sure we're working somewhere close. On the top-right si
 
 If you click on **Services**, you should see something similar to below. Because Amazon has a lot of services, you might want to type out *EC2* on the search box. Click on the link afterwards.
 
-![DevOpsGirls-1-1-2][1-1-2-gotoec2]
+![Go to EC2][1-1-2-gotoec2]
 
 ### 3.) Create your key pair
 
@@ -51,7 +51,7 @@ The first thing we'll need to do is to create a key pair. This will be the key f
 
 ![Create key pair][1-1-3-keypair]
 
-Make sure you name this key pair accordingly (how about **_yourname_-devopsgirls**) and notice where it's downloaded to. This will typically be your default Downloads folder.
+Make sure you name this key pair accordingly (how about **_yourname-testbash**) and notice where it's downloaded to. This will typically be your default Downloads folder.
 
 You're going to need to remember its name and location for later.
 
@@ -110,7 +110,7 @@ Tagging your instance is important - think of it as a way to identify your insta
 
 ![Instancetags][1-1-8-instancetags]
 
-For this example, we're going to tag your instance with a *Name*. Put *Name* in the box below *Key*; put any name you want on the *Value*, like **DevOpsGirls Wordpress**. This will be the name of your instance when you see it on a list later.
+For this example, we're going to tag your instance with a *Name*. Put *Name* in the box below *Key*; put any name you want on the *Value*, like **TestBash Wordpress**. This will be the name of your instance when you see it on a list later.
 
 
 ### 10.) Checking security groups
@@ -199,8 +199,8 @@ Once you find your password in the log file, we discovered you *have* to right-c
 
 Make note of the IP address you saw in your instance properties. Use the following guides depending on what operating system you have:
 
- - [If you are using a Mac](https://github.com/DevOps-Girls/DevOpsTesting101/blob/master/8-1-SSH-from-Mac.md)
- - [If you are using Windows](https://github.com/DevOps-Girls/DevOpsTesting101/blob/master/8-2-SSH-from-Windows.md)
+ - [If you are using a Mac](8-1-SSH-from-Mac.md)
+ - [If you are using Windows](8-2-SSH-from-Windows.md)
 
 
 
@@ -208,9 +208,9 @@ Make note of the IP address you saw in your instance properties. Use the followi
 
 If you made it this far, congratulations. You have a choice now, to play with your Linux shell, or to add monitoring.
 
-For the Linux shell: https://github.com/DevOps-Girls/DevOpsTesting101/blob/master/4-1-Adventure.md#a-linux-command-line-cli-101
+For the Linux shell: [click here](4-1-Adventure.md#a-linux-command-line-cli-101)
 
-For monitoring: https://github.com/DevOps-Girls/DevOpsTesting101/blob/master/3-1-Monitoring.md
+For monitoring: [click here](3-1-Monitoring.md)
 
 
 
