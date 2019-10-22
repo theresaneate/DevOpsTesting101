@@ -26,7 +26,7 @@ You should now be able to get the above output when typing in and pressing Enter
 
 ### 2. If you are not using Windows 10
 
-Please install PuTTY and PuTTY Gen, following steps 1-3 of section [Generate the key](8-2-SSH-from-Windows.md#generate-the-key)
+Please install PuTTY and PuTTY Gen, following steps 1-3 of section [Generate the key](8-2-SSH-from-Windows.md#a-generate-the-key).
 
 
 ## C. All machines: Admin privileges
@@ -41,7 +41,7 @@ Please continue to follow the steps below too:
 
 #### 1. Windows only
 
-Please install PuTTY and PuTTY Gen, following steps 1-3 of section [Generate the key](8-2-SSH-from-Windows.md#generate-the-key)
+Please install PuTTY and PuTTY Gen, following steps 1-3 of section [Generate the key](8-2-SSH-from-Windows.md#a-generate-the-key).
 
 #### 2. All machines
 
