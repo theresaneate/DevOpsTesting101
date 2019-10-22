@@ -14,7 +14,7 @@
 ## Wifi
 Provided by conference
 
-Troubleshooting on a Mac:
+##### Troubleshooting on a Mac:
 - Go to Network - Preference Pane
 - Click on Advanced button
 - Click on TCP / IP tab:
@@ -40,6 +40,7 @@ We are attempting to define all the terms we use, either in the text itself, or 
 
 ## Pairing
 Try and work as pairs, this often helps the learning process.</br>
+</br>
 Before we move on, say hi to the person next to you.</br>
 
 ## Code of conduct

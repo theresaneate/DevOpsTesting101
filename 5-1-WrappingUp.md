@@ -19,19 +19,24 @@ http://docs.amazonwebservices.com/gettingstarted/latest/awsgsg-freetier/TestDriv
 ## If you feel like homework, all our tutorials can be found on GitHub:
 https://github.com/theresaneate/DevOpsTesting101
 and
-https://github.com/DevOps-Girls
+https://github.com/DevOps-Girls/
 
 ## Recommended reading & meetups
 
 ### Meetups
 
-https://www.meetup.com/DevOpsGirls/<br/>
-https://www.meetup.com/PyLadies-Melbourne/<br/>
-https://www.meetup.com/Women-Who-Code-Melbourne/<br/>
-https://www.meetup.com/Tech-Leading-Ladies/ <br/>
-https://www.meetup.com/Female-Coders-Lab-Melbourne/<br/>
 https://www.meetup.com/Infrastructure-Coders/<br/>
-https://www.meetup.com/Women-Who-Test/<br/>
+https://www.meetup.com/sydneypython/ <br/>
+https://www.meetup.com/DevOpsGirls/<br/>
+https://www.meetup.com/Application-Security-OWASP-Melbourne/ </br>
+https://www.meetup.com/devops-sydney/ </br>
+https://www.meetup.com/devops-melbourne </br>
+https://www.meetup.com/Women-Who-Code-Melbourne/<br/>
+https://www.meetup.com/Women-Who-Code-Sydney/ <br/>
+https://www.meetup.com/PyLadies-Melbourne/ <br/>
+<br/>
+
+
 
 
 ### Reading

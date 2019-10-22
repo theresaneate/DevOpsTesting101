@@ -51,7 +51,7 @@ The first thing we'll need to do is to create a key pair. This will be the key f
 
 ![Create key pair][1-1-3-keypair]
 
-Make sure you name this key pair accordingly (how about **_yourname-testbash**) and notice where it's downloaded to. This will typically be your default Downloads folder.
+Make sure you name this key pair accordingly (how about **yourname-testbash**) and notice where it's downloaded to. This will typically be your default Downloads folder.
 
 You're going to need to remember its name and location for later.
 
