@@ -26,4 +26,4 @@ Remember to bring your laptop as this workshop will be completely hands-on.
 
 ## Setups
 
-There will be setup steps emailed to and I will be available on email before, and in person on the day of the workshop to answer setup questions. These can also found on the [Setup](0-1-Setup.md) page.
+There will be setup steps emailed to you and I will be available on email before, and in person on the day of the workshop to answer setup questions. These can also found on the [Setup](0-1-Setup.md) page.
