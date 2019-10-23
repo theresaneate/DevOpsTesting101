@@ -34,20 +34,21 @@ The bucket name needs to be unique, so consider a name like **yourname-testbash*
 
 #### Click next until Set Permissions
 
+##### Uncheck 'Block all public access' (not encouraged outside of this demo exercise)
+
 ![s3createbucket](images/2-1-S3/s3permissions.png)
 
-#### Confirm bucket creation
+#### Continue to next and then confirm bucket creation
 
 ![s3createbucket](images/2-1-S3/s3createbucket.png)
 
-### d. Set up static website hosting settings
+### d. Click on Properties, and then Static website hosting settings
 ![s3static](images/2-1-S3/s3staticwebsitehosting.png)
 
 #### Type in the default index document (index.html)
 ![s3index](images/2-1-S3/s3indexhtml.png)
 
-### e. Set bucket policy
-![s3bucketpolicy](images/2-1-S3/s3bucketpolicy.png)
+### e. Click on Permission and then Bucket Policy
 
 Copy the below code to your bucket policy, and then edit the code with own bucket name in the 'example-bucket' text:
 
@@ -65,6 +66,7 @@ Copy the below code to your bucket policy, and then edit the code with own bucke
   ]
 }
 ```
+![s3bucketpolicy](images/2-1-S3/s3bucketpolicy.png)
 
 ## 2. Select and download a website template
 
