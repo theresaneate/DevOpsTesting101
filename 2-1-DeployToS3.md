@@ -32,7 +32,7 @@ https://docs.aws.amazon.com/s3/index.html
 
 The bucket name needs to be unique, so consider a name like **yourname-testbash**.
 
-#### Click next until permissions
+#### Click next until Set Permissions
 
 ![s3createbucket](images/2-1-S3/s3permissions.png)
 
