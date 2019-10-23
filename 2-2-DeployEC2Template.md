@@ -155,7 +155,7 @@ For better recognition, name your instance.
 
 ### 14.) Seeing your instance properties
 
-In the section below the instance name, you're going to see a list if your instance properties - what it's called, what the IP addresses are, and where it lives. You're going to want to look for the section that says **Public IP**.
+In the section below the instance name, you're going to see a list of your instance properties - what it's called, what the IP addresses are, and where it lives. You're going to want to look for the section that says **Public IP**.
 
 ![Properties][1-1-12-properties]
 
