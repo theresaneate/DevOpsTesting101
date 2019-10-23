@@ -42,13 +42,13 @@ The bucket name needs to be unique, so consider a name like **yourname-testbash*
 
 ![s3createbucket](images/2-1-S3/s3createbucket.png)
 
-### d. Click on Properties, and then Static website hosting settings
+### d. Click on Properties, and then Static website hosting 
 ![s3static](images/2-1-S3/s3staticwebsitehosting.png)
 
 #### Type in the default index document (index.html)
 ![s3index](images/2-1-S3/s3indexhtml.png)
 
-### e. Click on Permission and then Bucket Policy
+### e. Click on Permissions, and then Bucket Policy
 
 Copy the below code to your bucket policy, and then edit the code with own bucket name in the 'example-bucket' text:
 
