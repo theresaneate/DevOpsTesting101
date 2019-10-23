@@ -28,7 +28,7 @@ https://docs.aws.amazon.com/s3/index.html
 ![s3fillindetails](images/2-1-S3/s3nameregion.png)
 
 
-### c. Provide the bucket name continue
+### c. Provide the bucket name 
 
 The bucket name needs to be unique, so consider a name like **yourname-testbash**.
 
