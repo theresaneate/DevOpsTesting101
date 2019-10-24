@@ -37,7 +37,7 @@ This will bring up this page:
 
 We are providing criteria that will **obviously** alarm, for our demo purposes.
 
-In our case, we are requiring an alarm if the Maximum CPU Utilisation is greater or lesser than 2. This will definitely alarm because you can see the CPU Utilisation is sitting in the region of 0.5 to 1.0.
+In our case, we are requiring an alarm if the Maximum CPU Utilisation is less than or equal to 2. This will definitely alarm because you can see the CPU Utilisation is sitting in the region of 0.5 to 1.0.
 
 ![EC2Monitoring](images/3-1-Monitoring/3-1-CreateAlarmDetails.png)
 
